@@ -1,0 +1,3 @@
+select product_category,profit from orders order by profit desc ;
+
+select discount from orders order by discount desc;
